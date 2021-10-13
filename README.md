@@ -1,3 +1,13 @@
+## [FlexiTerm](http://users.cs.cf.ac.uk/I.Spasic/flexiterm/): a software tool to automatically recognise multi-word terms in text documents.
+
+FlexiTerm takes as input a corpus of ASCII documents and outputs a ranked list of automatically recognised multi-word terms.
+
+If you use FlexiTerm in your work/research, please cite the following papers:
+
+[Spasić, I., Greenwood, M., Preece, A., Francis, N., & Elwyn, G. (2013). FlexiTerm: a flexible term recognition method. Journal of biomedical semantics, 4(1), 27.](https://jbiomedsem.biomedcentral.com/articles/10.1186/2041-1480-4-27)
+
+For more information, please visit the [FlexiTerm](http://users.cs.cf.ac.uk/I.Spasic/flexiterm/) website.
+
 Python requirements:
 
 Python 		version "3.7.4"
