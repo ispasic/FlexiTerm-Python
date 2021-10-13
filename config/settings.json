@@ -1,0 +1,9 @@
+{
+   "pattern"  : "(((((NN|JJ) )*NN) IN (((NN|JJ) )*NN))|((NN|JJ )*NN POS (NN|JJ )*NN))|(((NN|JJ) )+NN)",
+   "stoplist" : "./config/stoplist.txt",
+   "Smin"     : 0.962,
+   "Amin"     : 5,
+   "Fmin"     : 2,
+   "Cmin"     : 2,
+   "acronyms" : "explicit"   
+}
