@@ -4,8 +4,9 @@ FlexiTerm takes as input a corpus of ASCII documents and outputs a ranked list o
 
 If you use FlexiTerm in your work/research, please cite the following papers:
 
-[1] Spasic, I., Greenwood, M., Preece, A., Francis, N., & Elwyn, G. (2013) FlexiTerm: a flexible term recognition method. Journal of Biomedical Semantics, 4(1), 27. (https://jbiomedsem.biomedcentral.com/articles/10.1186/2041-1480-4-27)
+[1] Spasic I, Greenwood M, Preece A, Francis N, & Elwyn, G. (2013) FlexiTerm: a flexible term recognition method. Journal of Biomedical Semantics, 4(1), 27. (https://jbiomedsem.biomedcentral.com/articles/10.1186/2041-1480-4-27)
 [2] Spasic I. (2018) Acronyms as an integral part of multi-word term recognition - A token of appreciation. IEEE Access, 6, pp. 8351-8363 (https://ieeexplore.ieee.org/document/8293774)
+[3]	Spasic I. (2021) FlexiTerm: A more efficient implementation of flexible multi-word term recognition. arXiv:2110.06981 (https://arxiv.org/abs/2110.06981)
 
 For more information, please visit the FlexiTerm web site: http://users.cs.cf.ac.uk/I.Spasic/flexiterm/
 
